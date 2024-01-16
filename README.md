@@ -1,4 +1,4 @@
 # myrepo-demo
 this is my 3rd Git Repository.
 <br>
-Author - Cilian murphy
+Author - Cilian Murphy
